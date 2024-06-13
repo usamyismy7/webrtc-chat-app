@@ -51,5 +51,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots
 
-![full screenshot](./assets/image.png)
-![video](./assets/video.gif)
+![full screenshot](https://raw.githubusercontent.com/usamyismy7/webrtc-chat-app/master/assets/image.png)
+![video](https://raw.githubusercontent.com/usamyismy7/webrtc-chat-app/master/assets/video.gif)
